@@ -1,0 +1,18 @@
+c:\users\alien\documents\visual studio 2015\Projects\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\bin\Debug\WAVtoMP3_Compression_Decompression.exe.config
+c:\users\alien\documents\visual studio 2015\Projects\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\bin\Debug\WAVtoMP3_Compression_Decompression.exe
+c:\users\alien\documents\visual studio 2015\Projects\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\bin\Debug\WAVtoMP3_Compression_Decompression.pdb
+c:\users\alien\documents\visual studio 2015\Projects\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\obj\Debug\WAVtoMP3_Compression_Decompression.csprojResolveAssemblyReference.cache
+c:\users\alien\documents\visual studio 2015\Projects\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\obj\Debug\WAVtoMP3_Compression_Decompression.Form1.resources
+c:\users\alien\documents\visual studio 2015\Projects\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\obj\Debug\WAVtoMP3_Compression_Decompression.Properties.Resources.resources
+c:\users\alien\documents\visual studio 2015\Projects\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\obj\Debug\WAVtoMP3_Compression_Decompression.csproj.GenerateResource.Cache
+c:\users\alien\documents\visual studio 2015\Projects\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\obj\Debug\WAVtoMP3_Compression_Decompression.exe
+c:\users\alien\documents\visual studio 2015\Projects\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\obj\Debug\WAVtoMP3_Compression_Decompression.pdb
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Techniki Transmisji Mowy i Dźwięku\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\bin\Debug\WAVtoMP3_Compression_Decompression.exe.config
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Techniki Transmisji Mowy i Dźwięku\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\bin\Debug\WAVtoMP3_Compression_Decompression.exe
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Techniki Transmisji Mowy i Dźwięku\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\bin\Debug\WAVtoMP3_Compression_Decompression.pdb
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Techniki Transmisji Mowy i Dźwięku\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\obj\Debug\WAVtoMP3_Compression_Decompression.Form1.resources
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Techniki Transmisji Mowy i Dźwięku\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\obj\Debug\WAVtoMP3_Compression_Decompression.Properties.Resources.resources
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Techniki Transmisji Mowy i Dźwięku\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\obj\Debug\WAVtoMP3_Compression_Decompression.csproj.GenerateResource.Cache
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Techniki Transmisji Mowy i Dźwięku\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\obj\Debug\WAVtoMP3_Compression_Decompression.exe
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Techniki Transmisji Mowy i Dźwięku\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\obj\Debug\WAVtoMP3_Compression_Decompression.pdb
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Techniki Transmisji Mowy i Dźwięku\WAVtoMP3_Compression_Decompression\WAVtoMP3_Compression_Decompression\obj\Debug\WAVtoMP3_Compression_Decompression.csprojResolveAssemblyReference.cache
